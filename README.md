@@ -1,9 +1,4 @@
-# Análisis multivariado II — Primer cuatrimestre de 2015
-
-## Equipo docente
-
-- **Clases teóricas:** Graciela Boente
-- **Clases prácticas:** Pablo Vena
+# Análisis Multivariado II — Primer cuatrimestre de 2015
 
 ## Prácticas
 
